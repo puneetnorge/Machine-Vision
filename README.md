@@ -1,3 +1,4 @@
 # Machine-Vision
 ## DL using Pytorch examples
-## This repository has .ipybn codes for Machine Vision
+### SeparateTwoSpiralsUsingNeuralNetwork.ipynb is used demo the use of Fully connected (MLP).
+
