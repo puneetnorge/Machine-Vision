@@ -1,8 +1,8 @@
 # Machine-Vision
 ## DL using Pytorch examples
 ## Sources of datasets: 
-https://cs.stanford.edu/~acoates/stl10/
-https://yann.lecun.com/exdb/mnist/
+### https://cs.stanford.edu/~acoates/stl10/
+### https://yann.lecun.com/exdb/mnist/
 
 ### SeparateTwoSpiralsUsingNeuralNetwork.ipynb can be used demo the use of Fully-connected layers model.
 
